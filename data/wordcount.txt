@@ -1,0 +1,3 @@
+I	hello	word
+helllo	map	reduce
+spark	l	map
